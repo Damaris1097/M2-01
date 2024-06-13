@@ -10,9 +10,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
 
     @IBOutlet weak var collection: UICollectionView!
     
-    let reuseIdentifier = "miCelda"
-    // Seleccionar la planificacion de ruta de la aerolinea de su preferencia
-    
+   
     var planificador = Planificador(aviones: Aeromexico.aviones)
 //    var planificador = Planificador(aviones: AmericanAirlines.aviones)
 

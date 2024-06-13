@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "958879E3-9368-4A16-88AE-445DBE4FE8F0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C692DCA9-EA8E-45A3-A0A8-74E3F49A5881"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Colleciones/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C692DCA9-EA8E-45A3-A0A8-74E3F49A5881 - b5e1a040d4954724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Colleciones.ViewController.collection.getter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "Colleciones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maris/DamarisGit/M2-01/Examen%20/Proyecto%202%20/Colleciones/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "C692DCA9-EA8E-45A3-A0A8-74E3F49A5881 - 848e006651d35730"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Colleciones.ViewController.collection.setter : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "Colleciones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maris/DamarisGit/M2-01/Examen%20/Proyecto%202%20/Colleciones/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "C692DCA9-EA8E-45A3-A0A8-74E3F49A5881 - 890052f89b30c98c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Colleciones.ViewController.collection.modify : Swift.Optional&lt;__C.UICollectionView&gt;"
+                  moduleName = "Colleciones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maris/DamarisGit/M2-01/Examen%20/Proyecto%202%20/Colleciones/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "C692DCA9-EA8E-45A3-A0A8-74E3F49A5881 - 56812170d032f4c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Colleciones.ViewController.collection.modify : Swift.Optional&lt;__C.UICollectionView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Colleciones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maris/DamarisGit/M2-01/Examen%20/Proyecto%202%20/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "C692DCA9-EA8E-45A3-A0A8-74E3F49A5881 - 48de82785c75fa91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Colleciones.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Colleciones.ViewController"
+                  moduleName = "Colleciones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maris/DamarisGit/M2-01/Examen%20/Proyecto%202%20/Colleciones/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "C692DCA9-EA8E-45A3-A0A8-74E3F49A5881 - d7dcdb8fc8959528"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Colleciones.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Colleciones.ViewController&gt;"
+                  moduleName = "Colleciones"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maris/DamarisGit/M2-01/Examen%20/Proyecto%202%20/Colleciones/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
