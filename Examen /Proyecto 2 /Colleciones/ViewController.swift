@@ -6,6 +6,7 @@
 //  Modified by Antonio A. Hernández
 
 import UIKit
+
 class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate {
 
     @IBOutlet weak var collection: UICollectionView!

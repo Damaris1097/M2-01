@@ -18,7 +18,7 @@ class ViewController2: UIViewController, UICollectionViewDataSource, UICollectio
    
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         
-        let width = (Int(view.frame.size.width)-20) / Int(sqrt(resultado)+1)
+        let width = (Int(view.frame.size.width)-20) / Int(sqrt(resultado))
         let layout = collectionView.collectionViewLayout as! UICollectionViewFlowLayout
         layout.itemSize = CGSize(width: width, height: width)
         

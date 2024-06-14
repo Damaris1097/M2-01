@@ -78,12 +78,12 @@
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" contentInsetAdjustmentBehavior="always" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="U6z-jA-wVL">
-                                <rect key="frame" x="0.0" y="147" width="120" height="120"/>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" contentInsetAdjustmentBehavior="always" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="U6z-jA-wVL">
+                                <rect key="frame" x="0.0" y="147" width="393" height="671"/>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <viewLayoutGuide key="contentLayoutGuide" id="Mrs-rD-cw0"/>
                                 <viewLayoutGuide key="frameLayoutGuide" id="NSd-bp-Kwp"/>
-                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" sectionInsetReference="safeArea" id="6nt-2U-tsT">
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="0.0" minimumInteritemSpacing="0.0" sectionInsetReference="safeArea" id="6nt-2U-tsT">
                                     <size key="itemSize" width="50" height="50"/>
                                     <size key="headerReferenceSize" width="0.0" height="0.0"/>
                                     <size key="footerReferenceSize" width="0.0" height="0.0"/>
@@ -106,6 +106,8 @@
                                             </subviews>
                                             <constraints>
                                                 <constraint firstItem="9E5-7c-hZC" firstAttribute="top" secondItem="3Gq-T7-NJM" secondAttribute="top" id="0eJ-by-tbI"/>
+                                                <constraint firstItem="9E5-7c-hZC" firstAttribute="centerY" secondItem="3Gq-T7-NJM" secondAttribute="centerY" id="1qB-yb-NMU"/>
+                                                <constraint firstItem="9E5-7c-hZC" firstAttribute="centerX" secondItem="3Gq-T7-NJM" secondAttribute="centerX" id="2iI-qA-acm"/>
                                                 <constraint firstAttribute="trailing" secondItem="9E5-7c-hZC" secondAttribute="trailing" id="scC-px-TIa"/>
                                                 <constraint firstItem="9E5-7c-hZC" firstAttribute="leading" secondItem="3Gq-T7-NJM" secondAttribute="leading" id="vrf-Lv-gt6"/>
                                                 <constraint firstAttribute="bottom" secondItem="9E5-7c-hZC" secondAttribute="bottom" id="wcM-Sq-0R2"/>
@@ -144,7 +146,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="az1-Ok-tWl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1256" y="-28"/>
+            <point key="canvasLocation" x="1254.1984732824426" y="-28.169014084507044"/>
         </scene>
     </scenes>
     <resources>
